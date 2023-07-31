@@ -1,0 +1,2 @@
+# magicPage
+myQTCTRLWidget
